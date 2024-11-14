@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.c5936cb2.css",
+    "main.js": "/resume/static/js/main.e6577f88.js",
+    "static/media/workImgFive.jpg": "/resume/static/media/workImgFive.6fddda9ca8e5dda15cf0.jpg",
+    "static/media/workImgOne.jpg": "/resume/static/media/workImgOne.ae0c73c8b7504cd343d3.jpg",
+    "static/media/workImgThree.jpg": "/resume/static/media/workImgThree.9c20fbd4d197ad73ddea.jpg",
+    "static/media/workImgTwo.jpg": "/resume/static/media/workImgTwo.3f2d16a2cdf21dd31d35.jpg",
+    "static/media/valoxity.png": "/resume/static/media/valoxity.58ff09149db92ef90333.png",
+    "static/media/whatsappnoew.png": "/resume/static/media/whatsappnoew.136b82469d774b097b6d.png",
+    "static/media/lessonfortress.png": "/resume/static/media/lessonfortress.bee518c948dcc99efc12.png",
+    "static/media/webmail.png": "/resume/static/media/webmail.f5759b8e90c5040fc89c.png",
+    "static/media/impact.ttf": "/resume/static/media/impact.0294f8285a2493417c09.ttf",
+    "static/media/bannerImg.png": "/resume/static/media/bannerImg.efc173b44179941b5429.png",
+    "static/media/Aminul_Islam_Full-Stack_Developer.pdf": "/resume/static/media/Aminul_Islam_Full-Stack_Developer.8bbddb47a9092b990a6b.pdf",
+    "index.html": "/resume/index.html",
+    "main.c5936cb2.css.map": "/resume/static/css/main.c5936cb2.css.map",
+    "main.e6577f88.js.map": "/resume/static/js/main.e6577f88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5936cb2.css",
+    "static/js/main.e6577f88.js"
+  ]
+}
